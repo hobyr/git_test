@@ -1,1 +1,2 @@
 Hello world! I'm writing from VS Code!
+I'm just writing this line using Vim.
